@@ -32,7 +32,7 @@ This site contains supplementary documentation useful to the members of
 - [The PR queue over time](https://rust-lang-nursery.github.io/rustc-pr-tracking/)
 - [Toolstate (rls, rustfmt, clippy)](https://rust-lang-nursery.github.io/rust-toolstate/)
 - [Components availability history](https://rust-lang.github.io/rustup-components-history/index.html)
-- [Release history](releases.html). Links to previous release artifacts.
+- [Release history](https://github.com/rust-lang/rust/blob/master/RELEASES.md). Links to previous release artifacts.
 - [Platform support](platform-support.html).
 - [Release process](release-process.html). How to make releases of Rust.
 - [How to prepare Rust release notes](release-notes.html).
